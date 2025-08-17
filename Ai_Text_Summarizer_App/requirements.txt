@@ -1,0 +1,4 @@
+# Dependencies
+transformers
+streamlit
+torch
